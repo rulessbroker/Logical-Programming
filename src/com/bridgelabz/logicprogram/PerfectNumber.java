@@ -4,7 +4,7 @@ public class PerfectNumber {
 	 public static void main(String[] args) {
 
 	        System.out.println("perfect numbers :");
-	        for (int i = 1; i < 1000; i++) {
+	        for (int i = 1; i < 100; i++) {
 
 	            checkPerfectNumber(i);
 	        }

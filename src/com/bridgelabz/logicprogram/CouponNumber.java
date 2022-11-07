@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class CouponNumber {
 	   public static void main(String[] args) {
-	        int winnerCouponNo = 123456;
+	        int winnerCouponNo = 123450;
 	        int couponNumber = 0;
 	        int couponCount = 0;
 
